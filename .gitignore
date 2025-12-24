@@ -27,8 +27,6 @@ __pycache__/
 Thumbs.db
 
 # Results
-results/*.png
-results/*.pdf
 !results/.gitkeep
 
 # LaTeX temporary files
