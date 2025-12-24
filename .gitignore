@@ -1,0 +1,33 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (optional - раскомментируйте если не хотите коммитить большие файлы)
+# dataset/*.csv
+# dataset/*.parquet
+# dataset/*.xml
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results
+results/*.png
+results/*.pdf
+!results/.gitkeep
+
