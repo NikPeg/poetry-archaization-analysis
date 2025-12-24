@@ -31,3 +31,11 @@ results/*.png
 results/*.pdf
 !results/.gitkeep
 
+# LaTeX temporary files
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.synctex.gz
+report/*.fdb_latexmk
+report/*.fls
